@@ -1,0 +1,23 @@
+body{
+    /*background-image:url("image.png");*/
+    background-size: 100%;
+    text-align: center;
+    background-repeat: non-repeat;
+}
+
+p{
+    color: rgb(13, 88, 100);
+    background-color: rgba(0, 0, 22, );
+}
+
+#cash-flow{
+    color: yellow;
+    background-color: rgb(206, 178, 18, 1.5);
+    
+}
+
+.tuna{
+    color:purple;
+    font-size:100px;
+}
+
