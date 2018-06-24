@@ -1,13 +1,8 @@
 body{
-    /*background-image:url("image.png");*/
+    background-image:url("New-Zealand-Wanaka-Willow-sunrise-705x484.jpg");
     background-size: 100%;
     text-align: center;
-    background-repeat: non-repeat;
-}
-
-p{
-    color: rgb(13, 88, 100);
-    background-color: rgba(0, 0, 22, );
+    background-repeat: no-repeat;
 }
 
 #cash-flow{
@@ -19,5 +14,29 @@ p{
 .tuna{
     color:purple;
     font-size:100px;
+}
+td, th{
+    border: 1px solid;
+    padding: 10px;
+}
+table{
+    border: 1px solid;
+    border-collapse: collapse;
+    width:60%;
+    align-content: center;
+}
+thead{
+    background-color:grey;
+}
+caption{
+    font-size: 20px;
+    font-weight: bolder;
+}
+p{
+    font-size: 35px;
+    font-weight: bolder;
+}
+tr:nth-child(even){
+    background-color:grey;
 }
 
